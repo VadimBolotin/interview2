@@ -254,7 +254,7 @@ body::-webkit-scrollbar {
   top: -7px;
   right: -10px;
   background: #FF8484;
-  background-image: url(/img/conteiner-garbage.svg);
+  background-image: url(../../img/conteiner-garbage.svg);
   background-position: center;
   background-repeat: no-repeat;
   /* box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1); */
